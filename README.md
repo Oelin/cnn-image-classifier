@@ -1,2 +1,3 @@
-# cnn-image-classifier
-Educational walkthrough of image classification using a CNN.
+# CNN Image Classifier.
+
+An educational walkthrough showing how to train a convolutional neural network (CNN) to perform image classification.
